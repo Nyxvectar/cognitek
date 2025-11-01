@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in this project, please report it to us as soon as possible. We take all security vulnerabilities seriously and will respond quickly to resolve any issues.
 
-Please report security vulnerabilities by emailing us at: security@cascaden.dev
+Please report security vulnerabilities by emailing us at: nyxvectar@proton.me
 
 In your report, please include:
 - A description of the vulnerability
