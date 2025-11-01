@@ -1,6 +1,6 @@
-# Contributing to Cascaden
+# Contributing to Cognitee
 
-Thank you for your interest in contributing to Cascaden! This document provides guidelines and steps for contributing to the project.
+Thank you for your interest in contributing to Cognitee! This document provides guidelines and steps for contributing to the project.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Thank you for your interest in contributing to Cascaden! This document provides 
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/your-username/cascaden.git
+   git clone https://github.com/your-username/cognitee.git
    ```
 3. Create a new branch for your feature or bug fix:
    ```bash

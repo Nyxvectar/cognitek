@@ -1,9 +1,9 @@
 /**
  * Author:  Raye Lattice
- * Repo:    cognitek
+ * Repo:    cognitee
  * Created: 10/01/2025
  */
 
 fn main() {
-    println!("Hello, world!")
+    println!("Hello, Cognitee!")
 }
